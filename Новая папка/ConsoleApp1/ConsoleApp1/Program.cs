@@ -13,6 +13,7 @@ namespace ConsoleApp1
             dynamic a = 4;
             a = "ffff";
             a = 'y';
+            a = "fff";
             Console.WriteLine(a);
             
         }
